@@ -1,5 +1,5 @@
 # 《protocol》  《网络协议》翻译
-`*斜体第一次翻译，电子版的资源链接：https://pan.baidu.com/s/1dIO3T0 密码：bbn1*`
+* 斜体第一次翻译，电子版的资源链接：https://pan.baidu.com/s/1dIO3T0 密码：bbn1 *
 ## 目录
 ### 系列前言
 ### 关于: protocol is as protocol does by Eugene Thacker
